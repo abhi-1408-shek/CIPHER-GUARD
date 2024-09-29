@@ -5,7 +5,7 @@ Cipher Guard - Cybersecurity Website
 Cipher Guard is a sleek, modern, and responsive website designed for a cybersecurity service. This project aims to provide users with essential information about the services offered, a visually engaging layout, and user-friendly navigation. 
 Built with HTML and CSS, it ensures smooth transitions, dynamic animations, and a clean UI.
 
-Features
+FEATURES
 
 Fully Responsive Design: The website is optimized for different screen sizes, ensuring a smooth experience on mobile, tablet, and desktop devices.
 Smooth Animations & Transitions: Incorporates scroll-behavior, hover effects, and keyframe animations for a polished user experience.
@@ -18,6 +18,16 @@ Tech Stack
 HTML5: The structure of the website is based on modern HTML5 elements.
 CSS3: Styling and animations are achieved using pure CSS3, focusing on responsiveness, transitions, and advanced layouts (e.g., CSS Grid).
 JS:Used to make transitions especially in enter.html
+
+HOW TO CONTRIBUTE
+
+If you'd like to contribute to Cipher Guard, please follow these steps:
+
+1) Fork the repository.
+2) Create a new branch (git checkout -b feature-branch).
+3) Make your changes and commit them (git commit -m 'Add some feature').
+4) Push to the branch (git push origin feature-branch).
+5) Open a Pull Request.
 
 ******************************************************************************************************************************************
 THIS IS A SIMPLE PROJECT MADE FOR COLLEGE ASSIGNMENT SUBMISSION
