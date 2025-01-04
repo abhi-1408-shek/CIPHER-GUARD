@@ -4,7 +4,6 @@
 
 Cipher Guard is a sleek, modern, and responsive website designed for a cybersecurity service. This project aims to provide users with essential information about the services offered, a visually engaging layout, and user-friendly navigation.  
 Built with HTML and CSS, it ensures smooth transitions, dynamic animations, and a clean UI.
-
 ---
 
 ## FEATURES
